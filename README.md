@@ -3,7 +3,7 @@ GlobalWork
 Math Evaluation
 .getInst() - retrieve information
 
-##ResultType
+### ResultType
 * skillHitCnt - array; count of movelist hit <br>
   * SKillSlotData - lookuptable skillHitCount[]
 * specialMoveCnt
@@ -11,5 +11,5 @@ Math Evaluation
 * cornerDiveCount
 
 
-###Figure out <br />
+### Figure out <br />
 format for database. <br />
