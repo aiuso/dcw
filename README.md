@@ -10,6 +10,23 @@ Math Evaluation
 * weaponAtkCnt
 * cornerDiveCount
 
+### ResultPosition - enum
+* Winner = 0
+* Winner_Partner = 1
+* Loser = 2 
+* Loser_Partner = 3
+* Draw = 4
+* None = -1
+
+### PlayerMatchResult - class
+* FinishMoveInfo
+* MatchTime
+* skillHitCnt
+* WazaCatergory
+
+### MatchEvalution 
+* GetWinningPlayer() - returns int
+* GetLoserPlayer() - returns int
 
 ### Figure out <br />
 format for database. <br />
