@@ -18,6 +18,17 @@ Math Evaluation
 * Draw = 4
 * None = -1
 
+### MatchBookingData
+*
+
+### WreslterParam
+* wrestler data
+
+### MatchWreslterInfo
+* HP
+* SP
+* 
+
 ### PlayerMatchResult - class
 * FinishMoveInfo
 * MatchTime
